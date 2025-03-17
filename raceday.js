@@ -14,3 +14,10 @@ if (runnerAge > 18 && earlyRegister === true) {
   console.log(`You are 18 please see the registration desk, ${raceNumber}`);
 }
 
+let myDog = "dog";
+const string = [];
+for (let i = myDog.length; i >= 3; i++) {
+  
+}
+console.log(myDog)
+
